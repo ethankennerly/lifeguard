@@ -54,16 +54,16 @@
     "3D Particle"
   ],
   "last-module-event-record-time": 1607809296626,
-  "design-resolution-width": 960,
-  "design-resolution-height": 640,
+  "design-resolution-width": 640,
+  "design-resolution-height": 480,
   "fit-width": false,
-  "fit-height": true,
-  "use-project-simulator-setting": false,
-  "simulator-orientation": false,
+  "fit-height": false,
+  "use-project-simulator-setting": true,
+  "simulator-orientation": true,
   "use-customize-simulator": true,
   "simulator-resolution": {
-    "height": 640,
-    "width": 960
+    "height": 480,
+    "width": 640
   },
   "assets-sort-type": "name",
   "facebook": {
@@ -75,6 +75,5 @@
     "live": {
       "enable": false
     }
-  },
-  "start-scene": "current"
+  }
 }

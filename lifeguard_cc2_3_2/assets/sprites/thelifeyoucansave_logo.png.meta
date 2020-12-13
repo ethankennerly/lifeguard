@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "acb75fa8-203e-4cfc-b030-0c88c6a289dd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 240,
+  "height": 230,
+  "platformSettings": {},
+  "subMetas": {
+    "thelifeyoucansave_logo": {
+      "ver": "1.0.4",
+      "uuid": "b4e51829-83be-45f2-b5a4-1418ef833562",
+      "rawTextureUuid": "acb75fa8-203e-4cfc-b030-0c88c6a289dd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 240,
+      "height": 230,
+      "rawWidth": 240,
+      "rawHeight": 230,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
